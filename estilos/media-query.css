@@ -1,4 +1,20 @@
 @charset "UTF-8";
 
-/* TABLES */
-/* TELAS MAIORES */
+/*
+ Dispositivo
+
+Celular pequeno:	Mobile (pequeno)	0	320
+Celular padrão:	    Mobile	            321	480
+Celular grande:	    Mobile (grande)	    481	767
+
+Tablet retrato:	    Tablet	            768	991
+Tablet paisagem:	Tablet landscape	992	1024
+
+Laptop/Notebook:	Small desktop	    1025 1280
+Desktop médio:	    Desktop	            1281 1440
+Desktop grande:	    Large desktop	    1441 1920+
+
+TV ou ultra-wide:	Extra large	1921+	    ∞    
+ */
+
+ 
