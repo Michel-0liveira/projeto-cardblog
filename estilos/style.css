@@ -40,7 +40,7 @@ main#card {
     transform: translate(-50%, -50%);
 
     background-color: var(--White);
-    width: 280px;
+    width: 275px;
     height: auto;
     border-radius: 20px;
     box-shadow: 7px 7px 0px black;

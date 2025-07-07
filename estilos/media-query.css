@@ -17,9 +17,9 @@ Desktop grande:	    Large desktop	    1441 1920+
 TV ou ultra-wide:	Extra large	        1921+ ∞    
  */
 
-@media screen and (min-width:481px){
+/* @media screen and (min-width:768px){
     main#card {
-        width: 380px;
+        width: 350px;
         height: auto;
     }
 
@@ -48,4 +48,4 @@ TV ou ultra-wide:	Extra large	        1921+ ∞
     div#assunto>p {
         font-size: 0.8em;
     }
-}
+} */
